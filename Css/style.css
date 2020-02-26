@@ -95,13 +95,15 @@ select {
 }
 .img-position{
   position: absolute; 
-  top: 37%;
+  top: 70%;
   right: 32%;
+  cursor: pointer;
 }
 .img-position2{
   position: absolute; 
-  top: 37%;
-  right: 9%;
+  top: 68%;
+  right: 3%;
+  cursor: pointer;
 }
 .image-upload>input {
   display: none;
